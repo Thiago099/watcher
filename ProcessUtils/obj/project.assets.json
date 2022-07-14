@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\THIAGO\\source\\repos\\watcher\\ProcessWatcher\\ProcessUtils.csproj",
+      "projectUniqueName": "C:\\Users\\THIAGO\\source\\repos\\watcher\\ProcessUtils\\ProcessUtils.csproj",
       "projectName": "ProcessUtils",
-      "projectPath": "C:\\Users\\THIAGO\\source\\repos\\watcher\\ProcessWatcher\\ProcessUtils.csproj",
+      "projectPath": "C:\\Users\\THIAGO\\source\\repos\\watcher\\ProcessUtils\\ProcessUtils.csproj",
       "packagesPath": "C:\\Users\\THIAGO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\THIAGO\\source\\repos\\watcher\\ProcessWatcher\\obj\\",
+      "outputPath": "C:\\Users\\THIAGO\\source\\repos\\watcher\\ProcessUtils\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

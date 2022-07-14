@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ProcessWatcher\ProcessUtils.csproj" />
+    <ProjectReference Include="..\ProcessUtils\ProcessUtils.csproj" />
   </ItemGroup>
 
 </Project>

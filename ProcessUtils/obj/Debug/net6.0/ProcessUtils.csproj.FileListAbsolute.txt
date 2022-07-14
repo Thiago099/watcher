@@ -1,0 +1,12 @@
+C:\Users\THIAGO\source\repos\watcher\ProcessUtils\bin\Debug\net6.0\ProcessUtils.deps.json
+C:\Users\THIAGO\source\repos\watcher\ProcessUtils\bin\Debug\net6.0\ProcessUtils.dll
+C:\Users\THIAGO\source\repos\watcher\ProcessUtils\bin\Debug\net6.0\ProcessUtils.pdb
+C:\Users\THIAGO\source\repos\watcher\ProcessUtils\obj\Debug\net6.0\ProcessUtils.csproj.AssemblyReference.cache
+C:\Users\THIAGO\source\repos\watcher\ProcessUtils\obj\Debug\net6.0\ProcessUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIAGO\source\repos\watcher\ProcessUtils\obj\Debug\net6.0\ProcessUtils.AssemblyInfoInputs.cache
+C:\Users\THIAGO\source\repos\watcher\ProcessUtils\obj\Debug\net6.0\ProcessUtils.AssemblyInfo.cs
+C:\Users\THIAGO\source\repos\watcher\ProcessUtils\obj\Debug\net6.0\ProcessUtils.csproj.CoreCompileInputs.cache
+C:\Users\THIAGO\source\repos\watcher\ProcessUtils\obj\Debug\net6.0\ProcessUtils.dll
+C:\Users\THIAGO\source\repos\watcher\ProcessUtils\obj\Debug\net6.0\refint\ProcessUtils.dll
+C:\Users\THIAGO\source\repos\watcher\ProcessUtils\obj\Debug\net6.0\ProcessUtils.pdb
+C:\Users\THIAGO\source\repos\watcher\ProcessUtils\obj\Debug\net6.0\ref\ProcessUtils.dll

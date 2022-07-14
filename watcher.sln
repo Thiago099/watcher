@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "watcher", "watcher\watcher.csproj", "{C00B4A42-E8AE-4464-A0D3-FF39D713DEA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessUtils", "ProcessWatcher\ProcessUtils.csproj", "{9064A424-D6AA-4717-92F4-30D3E93C894E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessUtils", "ProcessUtils\ProcessUtils.csproj", "{9064A424-D6AA-4717-92F4-30D3E93C894E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
